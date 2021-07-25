@@ -1,4 +1,4 @@
-# ML-KMeans-Unsupervised-Learning-Algorithm-Implementation
+# ML-Unsupervised-Learning-KMeans-Algorithm-Implementation
 
 In this project, I developed the k-means method and tested it on the provided dataset, which consists of a set of 2-D points.
 For selecting the initial cluster centers, I used two distinct stratergies.
